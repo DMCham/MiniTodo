@@ -23,3 +23,19 @@ Todo Mobile App
 * NodeJs (Express)
 * PostgreSQL
 
+## Steps (Frontend)
+1. Display hello world in Android Studio Simulator
+2. Navigate from index to hello page and back
+3. List all components from all screens
+4. Develop all components
+5. Develop all screens with required components
+6. API calls
+7. UAT
+
+## Steps (Backend)
+1. Use Case Diagram
+2. Activity Diagram
+3. Class Diagram
+4. Class diagram to class/objects
+5. CRUD objects
+6. Additional services
